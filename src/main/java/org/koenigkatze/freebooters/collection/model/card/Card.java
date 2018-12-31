@@ -1,10 +1,10 @@
-package org.koenigkatze.freebooters.collection.card;
+package org.koenigkatze.freebooters.collection.model.card;
 
-import org.koenigkatze.freebooters.collection.card.attribute.IAttributeSet;
-import org.koenigkatze.freebooters.collection.card.fraction.EFractionType;
-import org.koenigkatze.freebooters.collection.card.healthbar.IHealthBar;
-import org.koenigkatze.freebooters.collection.card.remark.IRemark;
-import org.koenigkatze.freebooters.collection.card.role.ERoleType;
+import org.koenigkatze.freebooters.collection.model.card.attribute.IAttributeSet;
+import org.koenigkatze.freebooters.collection.model.card.fraction.EFractionType;
+import org.koenigkatze.freebooters.collection.model.card.healthbar.IHealthBar;
+import org.koenigkatze.freebooters.collection.model.card.remark.IRemark;
+import org.koenigkatze.freebooters.collection.model.card.role.ERoleType;
 
 final class Card implements ICard
 {

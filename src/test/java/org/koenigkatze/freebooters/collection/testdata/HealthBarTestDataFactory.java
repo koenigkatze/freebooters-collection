@@ -1,7 +1,7 @@
 package org.koenigkatze.freebooters.collection.testdata;
 
-import org.koenigkatze.freebooters.collection.card.healthbar.HealthBarBuilder;
-import org.koenigkatze.freebooters.collection.card.healthbar.IHealthBar;
+import org.koenigkatze.freebooters.collection.model.card.healthbar.HealthBarBuilder;
+import org.koenigkatze.freebooters.collection.model.card.healthbar.IHealthBar;
 
 public final class HealthBarTestDataFactory
 {

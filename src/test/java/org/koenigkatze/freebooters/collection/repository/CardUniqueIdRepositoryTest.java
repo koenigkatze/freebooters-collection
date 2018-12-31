@@ -7,7 +7,7 @@ import java.util.Optional;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.koenigkatze.freebooters.collection.card.ICard;
+import org.koenigkatze.freebooters.collection.model.card.ICard;
 import org.koenigkatze.freebooters.collection.repository.ICardRepository;
 import org.koenigkatze.freebooters.collection.repository.ICardRepositoryFactory;
 import org.koenigkatze.freebooters.collection.testdata.CardTestDataFactory;

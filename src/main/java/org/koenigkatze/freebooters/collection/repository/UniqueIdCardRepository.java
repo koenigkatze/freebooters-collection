@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Optional;
 
-import org.koenigkatze.freebooters.collection.card.ICard;
+import org.koenigkatze.freebooters.collection.model.card.ICard;
 
 public final class UniqueIdCardRepository implements ICardRepository
 {

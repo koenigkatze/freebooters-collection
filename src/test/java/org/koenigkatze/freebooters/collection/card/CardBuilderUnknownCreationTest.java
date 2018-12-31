@@ -3,11 +3,14 @@ package org.koenigkatze.freebooters.collection.card;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.koenigkatze.freebooters.collection.card.attribute.AttributeSetBuilder;
-import org.koenigkatze.freebooters.collection.card.attribute.IAttributeSet;
-import org.koenigkatze.freebooters.collection.card.healthbar.IHealthBar;
-import org.koenigkatze.freebooters.collection.card.remark.IRemark;
-import org.koenigkatze.freebooters.collection.card.remark.Remark;
+import org.koenigkatze.freebooters.collection.model.card.CardBuilder;
+import org.koenigkatze.freebooters.collection.model.card.CardConst;
+import org.koenigkatze.freebooters.collection.model.card.ICard;
+import org.koenigkatze.freebooters.collection.model.card.attribute.AttributeSetBuilder;
+import org.koenigkatze.freebooters.collection.model.card.attribute.IAttributeSet;
+import org.koenigkatze.freebooters.collection.model.card.healthbar.IHealthBar;
+import org.koenigkatze.freebooters.collection.model.card.remark.IRemark;
+import org.koenigkatze.freebooters.collection.model.card.remark.Remark;
 import org.koenigkatze.freebooters.collection.testdata.HealthBarTestDataFactory;
 
 public class CardBuilderUnknownCreationTest

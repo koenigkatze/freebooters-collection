@@ -1,4 +1,4 @@
-package org.koenigkatze.freebooters.collection.card.healthbar;
+package org.koenigkatze.freebooters.collection.model.card.healthbar;
 
 import java.util.List;
 

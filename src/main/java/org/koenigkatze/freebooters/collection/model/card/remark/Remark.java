@@ -1,6 +1,6 @@
-package org.koenigkatze.freebooters.collection.card.remark;
+package org.koenigkatze.freebooters.collection.model.card.remark;
 
-import org.koenigkatze.freebooters.collection.card.CardConst;
+import org.koenigkatze.freebooters.collection.model.card.CardConst;
 
 public class Remark implements IRemark
 {

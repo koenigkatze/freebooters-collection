@@ -1,4 +1,4 @@
-package org.koenigkatze.freebooters.collection.card.attribute;
+package org.koenigkatze.freebooters.collection.model.card.attribute;
 
 final class Attribute implements IAttribute 
 {

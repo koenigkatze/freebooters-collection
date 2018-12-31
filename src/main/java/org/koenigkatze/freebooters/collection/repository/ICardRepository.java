@@ -2,7 +2,7 @@ package org.koenigkatze.freebooters.collection.repository;
 
 import java.util.Optional;
 
-import org.koenigkatze.freebooters.collection.card.ICard;
+import org.koenigkatze.freebooters.collection.model.card.ICard;
 
 public interface ICardRepository extends Iterable<ICard>
 {

@@ -1,7 +1,7 @@
-package org.koenigkatze.freebooters.collection.card;
+package org.koenigkatze.freebooters.collection.model.card;
 
-import org.koenigkatze.freebooters.collection.card.fraction.EFractionType;
-import org.koenigkatze.freebooters.collection.card.role.ERoleType;
+import org.koenigkatze.freebooters.collection.model.card.fraction.EFractionType;
+import org.koenigkatze.freebooters.collection.model.card.role.ERoleType;
 
 public class CardConst
 {
